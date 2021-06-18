@@ -6,8 +6,28 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.cart-item{
+display: inline-flex;
+margin: 20px 10px;
+}
+.cart-item .right-block{
+padding: 0 20px;
+}
+.cart-item-actions{
+  margin-top: 20px;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+}
+.actions-icons{
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+
+}
+.action-icons:hover{
+    cursor: pointer;
+}
+
+.cart{
+  display: flex;
+  flex-direction: column ;
 }
