@@ -31,3 +31,12 @@ This is an app made using react which showcases how react component can be used 
 ```
 npm start
 ```
+## Live Demo:
+![demo](https://github.com/vishwajeet-hash/cartsystem/blob/master/images/demo.PNG)
+
+
+## AUTHOR :
+
+#### NAME - Vishwajeet Kumar Singh <br>
+#### Github profile- [Click here](https://github.com/vishwajeet-hash)
+
