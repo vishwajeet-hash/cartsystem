@@ -7,10 +7,10 @@
 
 This is an app made using react which showcases how react component can be used to build a user friendly experience with instant visual updates and scalable code in ecommerce applications.
 
-## Work flow :
+## Work flow of the react components:
 * App.js
-      * Navbar.js
-      * Cart.js
+ **    Navbar.js
+  **   Cart.js 
             * Cartitem.js
 ---
 
