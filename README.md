@@ -10,7 +10,7 @@ This is an app made using react which showcases how react component can be used 
 ## Work flow of the react components:
 
 > App.js
->> Navbar.js
+>> Navbar.js <br>
 >> Cart.js 
 >>> Cartitem.js
  
