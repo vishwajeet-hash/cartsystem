@@ -71,6 +71,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## To Contribute:
 To contribute to this project [click here](https://github.com/vishwajeet-hash/cartsystem).
 
+## Updates required/working on :
+* `UI improvements`
+* `Adding Redux for state management`
+* `Deployment`
+
 ## AUTHOR :
 
 #### NAME - Vishwajeet Kumar Singh <br>
