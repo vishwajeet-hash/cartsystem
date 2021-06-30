@@ -39,4 +39,4 @@ npm start
 
 #### NAME - Vishwajeet Kumar Singh <br>
 #### Github profile- [Click here](https://github.com/vishwajeet-hash)
-
+#### Linkedin profile- [Click here](https://www.linkedin.com/in/vishwajeet-kumar-singh-b2a7aa1a5/)
