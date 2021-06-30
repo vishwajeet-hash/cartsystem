@@ -12,9 +12,8 @@ This is an app made using react which showcases how react component can be used 
 > App.js
 >> Navbar.js <br>
 >> Cart.js 
->>> Cartitem.js
+>>>  Cartitem.js
  
----
 
 ### Requirements-
 
