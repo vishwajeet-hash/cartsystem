@@ -1,7 +1,6 @@
 ![cart](https://github.com/vishwajeet-hash/cartsystem/blob/master/images/shopping.jpeg)
 # React Cart System
 ---
----
 * This is a simple cart system made using react framework.
 
 ## Description
@@ -38,10 +37,9 @@ npm start
 
 
 ## AUTHOR :
-***
+
 #### NAME - Vishwajeet Kumar Singh <br>
 #### Github profile- [Click here](https://github.com/vishwajeet-hash)
 #### Linkedin profile- [Click here](https://www.linkedin.com/in/vishwajeet-kumar-singh-b2a7aa1a5/)
 
----
----
+***
