@@ -1,6 +1,6 @@
 ![cart](https://github.com/vishwajeet-hash/cartsystem/blob/master/images/shopping.jpeg)
 # React Cart System
----
+
 * This is a simple cart system made using react framework.
 
 ## Description
