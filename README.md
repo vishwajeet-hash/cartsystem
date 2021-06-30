@@ -1,4 +1,4 @@
-![cart]()
+![cart](https://github.com/vishwajeet-hash/cartsystem/blob/master/images/shopping.jpeg)
 # React Cart System
 
 * This is a simple cart system made using react framework.
@@ -23,7 +23,7 @@ This is an app made using react which showcases how react component can be used 
 # Getting Started:
 
 * Clone the repository on your system.
-* Go to the project folder and install the required dependencies
+* Go to the project folder and install the required dependencies :
 ```
   npm install
 ```
