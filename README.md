@@ -7,6 +7,13 @@
 
 This is an app made using react which showcases how react component can be used to build a user friendly experience with instant visual updates and scalable code in ecommerce applications.
 
+## Work flow :
+* App.js
+      * Navbar.js
+      * Cart.js
+            * Cartitem.js
+---
+
 ### Requirements-
 
 * Node.js
@@ -22,19 +29,21 @@ This is an app made using react which showcases how react component can be used 
 
 # Getting Started:
 
-* Clone the repository on your system.
-* Go to the project folder and install the required dependencies :
+* Clone the repository on your system from ![here](https://github.com/vishwajeet-hash/cartsystem).
+* Open the project folder and install the required dependencies by running this command on terminal:
 ```
   npm install
 ```
-* Start the project simply by writing :
+* Start the project simply by writing this code :
 ```
 npm start
 ```
 ## Live Demo:
-( You can see this app running by visiting [here](https://www.youtube.com/watch?v=UlEYzTG2fV) )
+( You can see this app running by visiting ![here](https://www.youtube.com/watch?v=UlEYzTG2fV) )
 ![demo](https://github.com/vishwajeet-hash/cartsystem/blob/master/images/demo.PNG)
 
+## To Contribute:
+To contribute to this project ![click here].
 
 ## AUTHOR :
 
