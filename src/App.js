@@ -6,6 +6,7 @@ class App extends React.Component{
   constructor(){
     super(); // calls constructor of the parent class. 
     this.state={
+      //An array containing the list of products.
         products: [
            { 
             price:999,
@@ -30,9 +31,9 @@ class App extends React.Component{
            }
         ]
     }
-}
+}   
+    //Callback function for increasing quantity of the particular product that's clicked. 
     handleIncreaseQuantity= (product) => {
-        console.log();
         const {products}=this.state;
         const index=products.indexOf(product);
         
@@ -42,9 +43,9 @@ class App extends React.Component{
             products
         })
     }
-    
+
+    //Callback function for decreasing quantity of the particular product that's clicked. 
     handleDecreaseQuantity= (product) => {
-        console.log();
         const {products}=this.state;
         const index=products.indexOf(product);
         
@@ -57,6 +58,7 @@ class App extends React.Component{
             products
         })
     }
+    //Callback function for deleating quantity of the particular product that's clicked. 
     handleDeleteProduct = (id) =>{
         const{products}= this.state;
         const items=products.filter((item) => item.id !==id);
@@ -64,6 +66,7 @@ class App extends React.Component{
             products: items
         })
     }
+    //Function for adding the total quantity of items added in cart.
     getCartCount=() =>{
       const{products}=this.state;
       let count=0;
@@ -73,13 +76,17 @@ class App extends React.Component{
 
       return count;
     }
+    //Function for totalling the amount.
     getCartTotal =() =>{
       const{products}=this.state;
 
       let cartTotal=0;
       products.map((product) => {
+      if (product.qty>0){
         cartTotal =cartTotal + product.qty * product.price
-      })
+      }
+      return '';
+    })
 
       return cartTotal;
     }
